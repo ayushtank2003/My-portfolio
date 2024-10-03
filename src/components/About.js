@@ -39,7 +39,7 @@ const About = () => {
               className="font-medium text-gray-700 text-lg lg:text-base xl:text-xl leading-loose xl:leading-8"
             >
               "Full-Stack Developer with 1 years of experience in crafting visually captivating, high-performing websites that deliver seamless user experiences.
-              <br></br> Specializing in <b>HTML5</b>,<b>CSS3</b>,<b>JavaScript</b> and modern tools like <b>React.js</b>,<b>Next.js</b>, and <b>Tailwind CSS</b>, I focus on building responsive, scalable, and innovative web solutions. 
+              <br></br> Specializing in <b>HTML5</b>,<b>CSS3</b>,<b>JavaScript</b> and modern tools like <b>React.js</b>,<b>Nodejs</b>, and <b>Tailwind CSS</b>, I focus on building responsive, scalable, and innovative web solutions. 
               With a keen eye for design and a solid technical foundation, I excel at turning complex ideas into polished, user-friendly Web App.
               Why hire me? I'm adaptable, continuously learning, and driven by the challenge of solving real-world problems through technology. I thrive in fast-paced environments, collaborate effectively with teams, and am always eager to tackle new challenges.
 
