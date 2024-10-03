@@ -8,9 +8,9 @@ import {
   BiLogoTailwindCss,
   // BiLogoTypescript,
 } from "react-icons/bi";
-import { TbApi, TbDatabase } from "react-icons/tb";
-import { SiElasticsearch } from "react-icons/si";
-// import { TiHtml5 } from "react-icons/ti";
+// import { TbApi, TbDatabase } from "react-icons/tb";
+// import { SiElasticsearch } from "react-icons/si";
+// // import { TiHtml5 } from "react-icons/ti";
 
 const ProjectsData = [
   {
