@@ -2,7 +2,7 @@
 <b>Live Demo -</b> https://apoorv-portfolio-app.netlify.app
 
 ![image](https://github.com/user-attachments/assets/b8843cdc-e316-48ed-8c06-d0984fcfefb1)
-
+![alt text](image.png)
 
 
 # Getting Started with Create React App
