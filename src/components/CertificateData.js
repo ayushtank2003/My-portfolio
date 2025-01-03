@@ -45,6 +45,20 @@ const CertificateData = [
     description: "Certificated By coursera (Google) Click Below",
     link: "https://drive.google.com/file/d/1Rnjrh__C0bgF6Mspin7YVMTyK6BE49nn/view?usp=sharing",
   },
+  {
+    id: "7",
+    name: "Internship Certificate",
+    image: require("../assets/Images/skill_academy.webp"),
+    description: "Internship Certificate by Skill Academy Click Below",
+    link: "https://drive.google.com/file/d/11G-DEuXYIW2sF-CLj4JEZif8w9-S13zX/view?usp=sharing",
+  },
+  {
+    id: "8",
+    name: "Course Completion Certificate",
+    image: require("../assets/Images/skill_academy.webp"),
+    description: "Course completion crtificate by Skill Academy Click Below",
+    link: "https://drive.google.com/file/d/1y0qPreqAvSaWAtJ_z7nba79M9qqlmB0Q/view",
+  },
 ];
 
 export default CertificateData;

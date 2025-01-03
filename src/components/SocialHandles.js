@@ -28,7 +28,7 @@ const SocialHandles = () => {
       </a>
       <a
         className="text-white text-2xl md:text-xl transition duration-700 hover:scale-125"
-        href="https://leetcode.com/u/ayush_taank-123/"
+        href="https://leetcode.com/u/ayush_tank/"
         target="_blank"
         rel="noreferrer"
       >

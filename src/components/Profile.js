@@ -15,7 +15,7 @@ const Profile = () => {
         >
           <img
             className="object-cover object-center bg-[#b9aeb6] border-2 border-white pointer-events-none rounded-full backdrop-contrast-200 backdrop-brightness-200"
-            alt="Apoorv"
+            alt="Ayush"
             src={require("../assets/Images/my proflie.jpg")}
           />
         </div>
@@ -86,7 +86,7 @@ const Profile = () => {
               </Link>
             </button>
             <a
-              href="https://drive.google.com/file/d/1LOnmV2Sa7IeInoc8xua2rKq8_0o-4pkA/view?usp=sharing"
+              href="https://drive.google.com/file/d/1T2EYWsOhZcZJdvgYHxetetA1K_jXzycK/view"
               target="_blank"
               rel="noreferrer"
             >
@@ -111,27 +111,27 @@ const Profile = () => {
               d="M-160 44c30 0 58-18 88-18s 58 18 88 18 58-18 88-18 58 18 88 18v44h-352z"
             />
           </defs>
-          <g class="waves">
+          <g className="waves">
             <use
               xlinkHref="#gentle-wave"
               x="50"
               y="0"
               fill="#f5f5f5"
-              fill-opacity=".2"
+              fillOpacity=".2"
             />
             <use
               xlinkHref="#gentle-wave"
               x="50"
               y="3"
               fill="#f5f5f5"
-              fill-opacity=".5"
+              fillOpacity=".5"
             />
             <use
               xlinkHref="#gentle-wave"
               x="50"
               y="6"
               fill="#f5f5f5"
-              fill-opacity=".9"
+              fillOpacity=".9"
             />
           </g>
         </svg>
